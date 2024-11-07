@@ -1,0 +1,2 @@
+# TalentHub
+Projekt za fakultet
